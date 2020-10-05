@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9043fb49970b6518c0ae9fd842aa36e4",
+    "revision": "aaad4480efa003509ec931d59d0299b1",
     "url": "/spike-detect-devices/index.html"
   },
   {
-    "revision": "34ccbf57ab7b3af6b125",
+    "revision": "29f5aa2bda1e098e6d44",
     "url": "/spike-detect-devices/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spike-detect-devices/static/js/2.1d7bc816.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34ccbf57ab7b3af6b125",
-    "url": "/spike-detect-devices/static/js/main.bb0017bb.chunk.js"
+    "revision": "29f5aa2bda1e098e6d44",
+    "url": "/spike-detect-devices/static/js/main.8fe36d12.chunk.js"
   },
   {
     "revision": "9653ecb4af2aec5eeb56",
