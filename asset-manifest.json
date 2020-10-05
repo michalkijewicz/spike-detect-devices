@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spike-detect-devices/static/css/main.5f361e03.chunk.css",
+    "main.js": "/spike-detect-devices/static/js/main.28aece46.chunk.js",
+    "main.js.map": "/spike-detect-devices/static/js/main.28aece46.chunk.js.map",
+    "runtime-main.js": "/spike-detect-devices/static/js/runtime-main.b0b78c0a.js",
+    "runtime-main.js.map": "/spike-detect-devices/static/js/runtime-main.b0b78c0a.js.map",
+    "static/js/2.7ba5c3a6.chunk.js": "/spike-detect-devices/static/js/2.7ba5c3a6.chunk.js",
+    "static/js/2.7ba5c3a6.chunk.js.map": "/spike-detect-devices/static/js/2.7ba5c3a6.chunk.js.map",
+    "index.html": "/spike-detect-devices/index.html",
+    "precache-manifest.d7504a2f36b9e8d7066e30ed7b5f047f.js": "/spike-detect-devices/precache-manifest.d7504a2f36b9e8d7066e30ed7b5f047f.js",
+    "service-worker.js": "/spike-detect-devices/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/spike-detect-devices/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7ba5c3a6.chunk.js.LICENSE.txt": "/spike-detect-devices/static/js/2.7ba5c3a6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spike-detect-devices/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b78c0a.js",
+    "static/js/2.7ba5c3a6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.28aece46.chunk.js"
+  ]
+}
