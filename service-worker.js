@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spike-detect-devices/precache-manifest.e31fe24883c1574b9b5301fbb29395b2.js"
+  "/spike-detect-devices/precache-manifest.e671e943d435a644bbf1a11b6a895720.js"
 );
 
 self.addEventListener('message', (event) => {
